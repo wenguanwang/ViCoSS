@@ -1,5 +1,5 @@
 # ViCoSS
-Dataset for 'Video Co-saliency Guided Co-segmentation' (T-CSVT18)
+Dataset and Results for 'Video Co-saliency Guided Co-segmentation' (T-CSVT18)
 
 If you find this dataset is useful, please cite our paper:
 
